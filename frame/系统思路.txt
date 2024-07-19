@@ -1,0 +1,2 @@
+hero component:
+life,time,pos,vision,speed,attack,defense,buff,equipment,talent
