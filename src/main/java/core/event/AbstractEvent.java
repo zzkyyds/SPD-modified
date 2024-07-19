@@ -1,4 +1,4 @@
-package core.Event;
+package core.event;
 
 public abstract class AbstractEvent {
 }

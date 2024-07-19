@@ -11,7 +11,7 @@ public class test {
 }
 
 class A {
-    public String type=getType().getSimpleName();
+    public final String type=getType().getSimpleName();
     public void test() {
         System.out.println("A");
     }

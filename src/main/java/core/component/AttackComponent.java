@@ -7,7 +7,12 @@ public class AttackComponent extends AbstractComponent{
 
 
     @Override
-    public void init() {
+    public void add() {
+
+    }
+
+    @Override
+    public void remove() {
 
     }
 
